@@ -46,3 +46,7 @@ Artificial intelligence
 Machine learning
 
 [Definition](../definitions/definitions_M.md#machine-learning)
+
+# Section 5 : Information Security Laws 
+
+[Section 5](./05_information_security_laws.md)

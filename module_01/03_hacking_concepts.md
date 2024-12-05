@@ -24,4 +24,4 @@ Organized crime
 
 # Section 4 : Information Security Controls 
 
-[Section 2](./04_information_security_controls.md)
+[Section 4](./04_information_security_controls.md)

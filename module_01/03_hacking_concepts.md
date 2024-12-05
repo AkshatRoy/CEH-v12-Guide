@@ -21,3 +21,7 @@ Insider
 Organized crime
 
 [Definition](../definitions/definitions_O.md#organized-crime)
+
+# Section 4 : Information Security Controls 
+
+[Section 2](./04_information_security_controls.md)

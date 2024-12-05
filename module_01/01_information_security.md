@@ -41,3 +41,7 @@ Examples:
 Information warfare
 
 [Definition](../definitions/definitions_I.md#information-warfare)
+
+# Section 2 : Hacking Methodology 
+
+[Section 2](./02_hacking_methodology.md)
